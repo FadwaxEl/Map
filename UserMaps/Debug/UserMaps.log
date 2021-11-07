@@ -1,0 +1,4 @@
+﻿  UserMaps.cpp
+C:\Users\admin\source\repos\StaticLib_Map\UserMaps\UserMaps.cpp(14,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\admin\source\repos\StaticLib_Map\UserMaps\UserMaps.cpp(19,78): warning C4305: 'argument' : troncation de 'double' à 'float'
+  UserMaps.vcxproj -> C:\Users\admin\source\repos\StaticLib_Map\Debug\UserMaps.exe
